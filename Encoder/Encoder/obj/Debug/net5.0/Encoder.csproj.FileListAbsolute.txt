@@ -1,0 +1,16 @@
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\Encoder.exe
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\Encoder.deps.json
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\Encoder.runtimeconfig.json
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\Encoder.runtimeconfig.dev.json
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\Encoder.dll
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\ref\Encoder.dll
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\bin\Debug\net5.0\Encoder.pdb
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.csproj.AssemblyReference.cache
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.AssemblyInfoInputs.cache
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.AssemblyInfo.cs
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.csproj.CoreCompileInputs.cache
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.dll
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\ref\Encoder.dll
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.pdb
+C:\Users\jlitodelcid\Desktop\Programs\Csharp\Encoder\Encoder\obj\Debug\net5.0\Encoder.genruntimeconfig.cache
